@@ -22,26 +22,25 @@
 
 ## Пример ввода\вывода:
 
-*Ввод:*
+## *Ввод:*
+8
 
-        8
+hgfa
 
-        hgfa
+abs
 
-        abs
+ba
 
-        ba
+bb
 
-        bb
+z
 
-        z
+papa
 
-        papa
+mama
 
-        mama
+mbma
 
-        mbma
+## *Вывод:*
 
-*Вывод:*
-
-        habzyxwvutsrqponmlkjigfedc
+habzyxwvutsrqponmlkjigfedc
